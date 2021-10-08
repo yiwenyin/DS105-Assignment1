@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Yiwen's Page
 
 You can use the [editor on GitHub](https://github.com/yiwenyin/DS105-class1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
