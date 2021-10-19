@@ -1,5 +1,9 @@
 ## Welcome to Yiwen's Page
 
+### Introduction
+
+Hi, my name is Yiwen Yin. I am a General Course student in my last year of university. I am from UNC Chapel Hill in the United States where I study Economics and Statistics. I wanted to take this course to gain a better understanding of the various ways to visualise data and the tools we can use to do this. 
+
 You can use the [editor on GitHub](https://github.com/yiwenyin/DS105-class1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
