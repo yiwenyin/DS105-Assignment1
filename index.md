@@ -2,7 +2,9 @@
 
 ### Introduction
 
-Hi, my name is Yiwen Yin. I am a General Course student in my last year of university. I am from UNC Chapel Hill in the United States where I study Economics and Statistics. I wanted to take this course to gain a better understanding of the various ways to visualise data and the tools we can use to do this. 
+Hi, my name is Yiwen Yin. I am a General Course student in my last year of university. I am from UNC Chapel Hill in the United States where I study Economics and Statistics. I wanted to take this course to gain a better understanding of the various ways to visualise data and the tools we can use to do this. I hope to come away with a better understanding of how we can use the internet and resources such as APIs to pull data and how to use data science tools to create visual representations of data analysis. 
+
+Outside of school, I enjoy running and am a member of LSE's Athletics and Running Society. Since being in London, I've enjoyed running in its many parks as well as along the streets to see the city. 
 
 ### Page Logistics
 
