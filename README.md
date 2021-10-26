@@ -1,2 +1,2 @@
-# DS105-class1
+# DS105-Assignment_1_YY
 DS105 Assignment 1
